@@ -1,5 +1,6 @@
-Universidad Complutense de Madrid.
-Autor: Mario Pérez Racionero
+Complutense University of Madrid (UCM).
 
-Código de Python desarrollado para la realización del Trabajo de Fin de Grado FTA23: "Viabilidad y características principales de un estudio con el telescopio ELT
-de galaxias con formación estelar de baja masa en la época del mediodía cósmico". 
+Author: Mario Pérez Racionero.
+Supervisors: Jesús Gallego Maestro & Cristina Cabello González.
+
+Python code developed for the Final Bachelor Degree Project: "Feasibility and main features of a survey of low-mass star-forming galaxies at the cosmic noon epoch with the ELT telescope".
