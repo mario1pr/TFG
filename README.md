@@ -1,4 +1,4 @@
-Complutense University of Madrid (UCM).
+Universidad Complutense de Madrid (UCM).
 
 Author: Mario Pérez Racionero.
 Supervisors: Jesús Gallego Maestro & Cristina Cabello González.
